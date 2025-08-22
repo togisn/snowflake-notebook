@@ -1,0 +1,6 @@
+slack:
+  provider: local
+  channel: C05NUMH7739
+  token: xxxx-xxxxx-xxxx-xxxxx
+  owners:
+    - whoami
